@@ -24,4 +24,4 @@ We may update our privacy policy time to time. Thus, you are advised to review t
 
 Contact us:
 
-If you any questio
+If you any questions or suggestions, please reach us at cshahfaizal@gmail.com.
