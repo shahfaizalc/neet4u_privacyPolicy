@@ -1,1 +1,7 @@
-app
+
+{
+    "minVersionCode": 46,
+    "title": "Update required",
+    "message": "A new version of Anna University Question Bank is available. Please update to continue.",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.itravis.univquestionbank"
+  }
